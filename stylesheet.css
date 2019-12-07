@@ -62,8 +62,12 @@ h1 {
   padding-bottom: 10px;
   color: #6f717d;
   border-bottom: 2px solid grey;
-}
 
+}
+img {
+  float: right;
+   margin: 10px;
+}
 h2 {
   position: sticky;
   top: 0px;
